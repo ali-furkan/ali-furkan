@@ -1,4 +1,17 @@
+# Ali Furkan-@ali-furkqn
+
+![alt](https://raw.githubusercontent.com/ali-furkqn/ali-furkqn/master/welcome.png)
+
 ### Hi there 👋
+
+I'm Ali Furkan. I'm Full-stack Developer.
+
+## Get in touch
+
+- Mail: me@alifurkan.codes
+- Personal site: https://alifurkan.codes
+- Twitter: https://twitter.com/AliFurkqn
+- LinkedIn: https://www.linkedin.com/in/ali-furkqn-kurt-38621b153
 
 <!--
 **ali-furkqn/ali-furkqn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
