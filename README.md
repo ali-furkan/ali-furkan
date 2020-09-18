@@ -1,6 +1,6 @@
 # Ali Furkan-@ali-furkqn
 
-![alt](/ali-furkqn/ali-furkqn/master/welcome.png)
+![alt](https://github.com/ali-furkqn/ali-furkqn/blob/master/welcome.png?raw=true)
 
 ### Hi there 👋
 
