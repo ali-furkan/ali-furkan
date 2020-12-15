@@ -8,8 +8,8 @@ I'm Ali Furkan. I'm Full-stack Developer.
 
 ## Get in touch
 
-- Mail: me@alifurkan.codes
-- Personal site: https://alifurkan.codes
+- Mail: me@alifurkan.co
+- Personal site: https://alifurkan.co
 - Twitter: https://twitter.com/AliFurkqn
 - LinkedIn: https://www.linkedin.com/in/ali-furkqn-kurt-38621b153
 
