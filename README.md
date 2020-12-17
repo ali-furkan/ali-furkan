@@ -6,6 +6,18 @@
 
 I'm Ali Furkan. I'm Full-stack Developer.
 
+## Projects
+
+These are projects I started and either still maintain or have maintained for a spending significant amount of time.
+
+| Project                                                     | Status                | Description                                                  |
+|-------------------------------------------------------------|-----------------------|--------------------------------------------------------------|
+|[Zinkapp](https://github.com/zinkapp)                        | not-ready             | Online Duel mobile game written in Nest.js and React Native) |
+|[Picassco](https://github.com/picass-co)                     | active (pre-release)  | Picassco is a web service that provide to you control to your information on social networks in one place. Written in Typescript, Golang and C++ |
+|[Picassco-Snowflake](https://github.com/picass-co/Snowflake) | active                | Picassco Snowflake is Nest.js Snowflake library. Written in Typescript and C++
+|[Stona](https://github.com/ali-furkqn/stona)                 | active                | A self-hosted API container service that serves your files. Written in Go |
+|[Earthquake-API](https://github.com/ali-furkqn/earthquake)   | active                | Global Earthquake tracker [Kandilli](http://sc3.koeri.boun.edu.tr/eqevents/events.html) Wrapper REST-API ( Unofficial ) written in Typescript |
+
 ## Get in touch
 
 - Mail: me@alifurkan.co
