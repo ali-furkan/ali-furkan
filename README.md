@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 
-I'm Ali Furkan. I'm a developer who care UI/UX design with Modern Technologies. Some of the Technologies/Language that I'm interested in React, React Native, Nest.js, Redux, Golang and C++. I also usually spend my time learning new things, sharing.
+I'm Ali Furkan. I'm a developer who care UI/UX design with Modern Technologies. Some of the Technologies/Language that I'm interested in React, React Native, Nest.js, Golang and C++. I also usually spend my time learning new things, sharing.
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ali-furkqn&show_icons=true&theme=tokyonight)
 
