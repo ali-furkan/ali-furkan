@@ -18,7 +18,7 @@ These are projects I started and either still maintain or have maintained for a 
 |[Stona](https://github.com/ali-furkqn/stona)                 | active                | A self-hosted API container service that serves your files. Written in Go |
 |[Earthquake-API](https://github.com/ali-furkqn/earthquake)   | active                | Global Earthquake tracker [Kandilli](http://sc3.koeri.boun.edu.tr/eqevents/events.html) Wrapper REST-API ( Unofficial ) written in Typescript |
 
-<h2 align="center">:bookmark: Get in touch</h2>
+<h2 align="center">:bookmark: Links</h2>
 
 <p align="center">
   <a href="mailto:me@alifurkan.co">Mail</a> |
