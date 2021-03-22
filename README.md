@@ -6,7 +6,7 @@ I'm Ali Furkan. I'm a developer who care UI/UX design with Modern Technologies. 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ali-furkqn&show_icons=true&theme=tokyonight)
 
-## Projects
+## :tada: Projects
 
 These are projects I started and either still maintain or have maintained for a spending significant amount of time.
 
@@ -18,9 +18,11 @@ These are projects I started and either still maintain or have maintained for a 
 |[Stona](https://github.com/ali-furkqn/stona)                 | active                | A self-hosted API container service that serves your files. Written in Go |
 |[Earthquake-API](https://github.com/ali-furkqn/earthquake)   | active                | Global Earthquake tracker [Kandilli](http://sc3.koeri.boun.edu.tr/eqevents/events.html) Wrapper REST-API ( Unofficial ) written in Typescript |
 
-## Get in touch
+<h2 align="center">:bookmark: Get in touch</h2>
 
-- Mail: me@alifurkan.co
-- Personal site: https://alifurkan.co
-- Twitter: https://twitter.com/AliFurkqn
-- LinkedIn: https://www.linkedin.com/in/ali-furkqn-kurt-38621b153
+<p align="center">
+  <a href="mailto:me@alifurkan.co">Mail</a> |
+  <a href="https://alifurkan.co">Website</a> |
+  <a href="https://twitter.com/AliFurkqn">Twitter</a> |
+  <a href="https://www.linkedin.com/in/ali-furkqn-kurt-38621b153">LinkedIn</a>
+</p>
