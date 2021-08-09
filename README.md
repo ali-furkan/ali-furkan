@@ -1,4 +1,4 @@
-![alt](https://github.com/ali-furkqn/ali-furkqn/blob/master/welcome.png?raw=true)
+![alt](https://github.com/ali-furkan/ali-furkan/blob/master/welcome.png?raw=true)
 
 <h1 align="center">Hi 👋, I'm Ali Furkan</h1>
 
