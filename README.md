@@ -7,8 +7,7 @@ I'm Ali Furkan. I'm a developer who care UI/UX design with Modern Technologies. 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ali-furkan&show_icons=true&theme=tokyonight)
 
 ## :tada: Projects
-
-These are projects I started and either still maintain or have maintained for a spending significant amount of time.
+These are projects that I developed and either still developing or terminated
 
 | Project                                                     | Status                | Description                                                  |
 |-------------------------------------------------------------|-----------------------|--------------------------------------------------------------|
