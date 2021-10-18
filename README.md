@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Ali Furkan</h1>
 
-I'm Ali Furkan. I'm a developer who care UI/UX design with Modern Technologies. Some of the Technologies/Language that I'm interested in React, React Native, Nest.js, Golang and C++. I also usually spend my time learning new things, sharing.
+I'm Ali Furkan. I'm a developer who care UI/UX design with Modern Technologies. Some of the Technologies/Language that I'm interested in React, React Native, Nest.js, Golang and Rust. I also usually spend my time learning new things, sharing.
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ali-furkan&show_icons=true&theme=tokyonight)
 
