@@ -11,8 +11,8 @@ These are projects that I developed and either still developing or terminated
 
 | Project                                                     | Status                | Description                                                  |
 |-------------------------------------------------------------|-----------------------|--------------------------------------------------------------|
-|[Zinkapp](https://github.com/zinkapp)                        | in progress           | Online Duel mobile game written in Nest.js and React Native |
-|[Picassco](https://github.com/picass-co)                     | terminated            | Picassco is a web service that provide to you control to your information on social networks in one place. Written in Typescript, Golang and C++ |
+|[Zinkapp](https://github.com/ali-furkan/zinkapp)             | in progress           | Online Duel mobile game written in Nest.js and React Native |
+|[Blur](https://github.com/auth-blur)                         | terminated            | Blur (aka Picassco) is a web service that provide to you control to your information on social networks in one place. Written in Typescript, Golang and C++ |
 |[Stona](https://github.com/ali-furkan/stona)                 | in progress           | Stona is a dynamic scalable object storage. Written in Go |
 |[Earthquake-API](https://github.com/ali-furkan/earthquake)   | active                | Global Earthquake tracker [Kandilli](http://sc3.koeri.boun.edu.tr/eqevents/events.html) Wrapper REST-API ( Unofficial ) written in Typescript |
 
