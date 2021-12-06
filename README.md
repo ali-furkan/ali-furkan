@@ -19,8 +19,8 @@ These are projects that I developed and either still developing or terminated
 <h2 align="center">:bookmark: Links</h2>
 
 <p align="center">
-  <a href="mailto:me@alifurkan.co">Mail</a> |
-  <a href="https://alifurkan.co">Website</a> |
+  <a href="mailto:me@alifurkan.dev">Mail</a> |
+  <a href="https://alifurkan.dev">Website</a> |
   <a href="https://twitter.com/AliFurkqn">Twitter</a> |
   <a href="https://www.linkedin.com/in/ali-furkqn-kurt-38621b153">LinkedIn</a>
 </p>
