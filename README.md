@@ -11,8 +11,8 @@ These are projects that I developed and either still developing or terminated
 |[Earthquake-API](https://github.com/ali-furkan/earthquake)   | completed             | Global Earthquake tracker [Kandilli](http://sc3.koeri.boun.edu.tr/eqevents/events.html) Wrapper REST-API ( Unofficial ) written in Typescript |
 
 ## :chart_with_upwards_trend: Stats
-![Github stats](https://github-readme-stats.vercel.app/api?username=ali-furkan&show_icons=true&theme=tokyonight)
-![Github stats langs](https://github-readme-stats.vercel.app/api/top-langs?username=ali-furkan&layout=compact&show_icons=true&theme=tokyonight)
+![Github stats](https://github-readme-stats.vercel.app/api?username=ali-furkan&show_icons=true&theme=tokyonight&cache_seconds=43200)
+![Github stats langs](https://github-readme-stats.vercel.app/api/top-langs?username=ali-furkan&layout=compact&show_icons=true&theme=tokyonight&cache_seconds=43200)
 
 <h2 align="center">:bookmark: Links</h2>
 
